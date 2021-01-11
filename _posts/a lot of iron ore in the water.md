@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "a lot of iron ore in the water"
 categories: [ Featured, Brazil ]
 image: assets/images/1.jpg
 featured: true
