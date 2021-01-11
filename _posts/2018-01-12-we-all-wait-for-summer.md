@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "a lot of iron ore in the water"
-categories: [ Jekyll, tutorial ]
+categories: [ Featured, Brazil ]
 image: assets/images/2.jpg
 featured: true
 ---
