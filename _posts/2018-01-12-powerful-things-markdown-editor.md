@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tween lift of 1600 tonne"
+title:  "1600 tonne tween lift"
 author: Boaz Cochavi
 categories: [ Featured, England ]
 image: assets/images/4.jpg
