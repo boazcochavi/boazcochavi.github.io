@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
-author: sal
-categories: [ Jekyll, tutorial ]
+title:  "Tween lift of 1600 tonne"
+author: Boaz Cochavi
+categories: [ Featured, England ]
 image: assets/images/4.jpg
 featured: true
 ---
