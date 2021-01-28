@@ -50,3 +50,6 @@ jekyll-archives:
 # Other
 markdown: kramdown
 highlighter: rouge
+
+# Debugging
+localurl: 'C:/Users/Boaz.Cochavi/OneDrive - Ardent Worldwide Limited/Documents/Github - Projects/boazcochavi.github.io'
