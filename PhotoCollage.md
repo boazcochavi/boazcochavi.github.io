@@ -18,6 +18,6 @@ image: assets/images/PhotoCollage.jpg
 <div>
     <a>
     <h1>Photo Collage - 1</h1>
-    <img src="C:\Users\Boaz.Cochavi\OneDrive - ARDENT Worldwide Limited\Documents\Github - Projects\boazcochavi.github.io\assets\images\PhotoCollage.jpg" width="1890px" height="1281px" alt="PhotoCollage_5"/>
+    <img src="C:\Users\Boaz.Cochavi\OneDrive - ARDENT Worldwide Limited\Documents\Github - Projects\boazcochavi.github.io\assets\images\PhotoCollage.jpg" width="1890px" height="1281px" alt="PhotoCollage_6"/>
     </a>
 </div>
