@@ -50,3 +50,6 @@ jekyll-archives:
 # Other
 markdown: kramdown
 highlighter: rouge
+
+# Debug
+localurl: $HOME/Documents/Playground/boazcochavi.github.io/
