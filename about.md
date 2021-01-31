@@ -12,11 +12,11 @@ This website is built with Jekyll and "Affiliates" (a Jekyll Template designed &
 
 <a href="https://github.com/wowthemesnet/affiliates-jekyll-theme/archive/master.zip" target="_blank">Download - Affiliates Jekyll Theme</a>
 
-![jekyll template mediumish]({{site.localurl}}/assets/images/theme1.jpg)
+![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
 
-![jekyll template mediumish]({{site.localurl}}/assets/images/theme2.jpg)
+![jekyll template mediumish]({{site.baseurl}}/assets/images/theme2.jpg)
 
-![jekyll template mediumish]({{site.localurl}}/assets/images/theme3.jpg)
+![jekyll template mediumish]({{site.baseurl}}/assets/images/theme3.jpg)
 
-![jekyll template mediumish]({{site.localurl}}/assets/images/theme4.jpg)
+![jekyll template mediumish]({{site.baseurl}}/assets/images/theme4.jpg)
 

@@ -4,12 +4,14 @@ title: Home
 ---
 
 <!-- Home Jumbotron
-================================================== -->    
+================================================== -->
 <section class="intro full-width">
     <div class="wrapintro">
         <h1>Boaz Cochavi</h1>
-        <h2 class="lead">Worked, sinds 2005 as a Salvage Naval Architect, together at different circumstances on board of differetn type of vessels. During my work in the field and at the office i have never ancoutered same type situation</h2>    
-        <a href="{{ site.localurl }}/assets/images/BoazCochavi.pdf" class="btn">Resume</a>
+        <h2 class="lead">Worked, sinds 2005 as a Salvage Naval Architect, together at different circumstances on board
+            of differetn type of vessels. During my work in the field and at the office i have never ancoutered same
+            type situation</h2>
+        <a href="{{ site.baseurl }}/assets/images/BoazCochavi.pdf" class="btn">Resume</a>
     </div>
 </section>
 
@@ -24,15 +26,15 @@ title: Home
 
     <div class="row listfeaturedtag">
 
-    {% for post in site.posts %}
+        {% for post in site.posts %}
 
         {% if post.featured == true %}
 
-            {% include featuredbox.html %}
+        {% include featuredbox.html %}
 
         {% endif %}
 
-    {% endfor %}
+        {% endfor %}
 
     </div>
 
@@ -44,7 +46,7 @@ title: Home
 {% if paginator.previous_page > 0 %}
 <div id="jumptopageof"></div>
 {% endif %}
-{% endif %}    
+{% endif %}
 
 <section class="recent-posts row">
 
@@ -55,7 +57,7 @@ title: Home
     <div class="col-sm-8">
 
         <div class="section-title">
-            <h2><span>All Stories</span></h2>    
+            <h2><span>All Stories</span></h2>
         </div>
 
         <div class="masonrygrid row listrecent">
@@ -64,13 +66,13 @@ title: Home
 
             {% unless post.featured == true %}
 
-                {% include postbox.html %}
+            {% include postbox.html %}
 
             {% endunless %}
 
             {% endfor %}
 
-        </div> 
+        </div>
 
         <!-- Pagination -->
         <div class="bottompagination">
