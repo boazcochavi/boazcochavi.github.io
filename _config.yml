@@ -6,7 +6,7 @@ meta_description: "Naval Architect."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: '/'
+baseurl: 'C:\Users\Boaz.Cochavi\OneDrive - ARDENT Worldwide Limited\Documents\Github - Projects\boazcochavi.github.io\_site'
 email: 'wowthemesnet@gmail.com'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
@@ -50,6 +50,3 @@ jekyll-archives:
 # Other
 markdown: kramdown
 highlighter: rouge
-
-# Debugging
-localurl: 'C:/Users/Boaz.Cochavi/OneDrive - Ardent Worldwide Limited/Documents/Github - Projects/boazcochavi.github.io'
